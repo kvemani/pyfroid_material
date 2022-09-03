@@ -1,16 +1,14 @@
 The licences for various files in this folder are as follows.
 
-Correlation between index and first column.png - Microsoft confidential, shared with reviewers of VLDB 2022.
+Correlation between index and first column.png - Microsoft confidential, shared with reviewers of CIDR 2023.
 
-Pandas APIs Translatability.xlsx - Microsoft confidential, shared with reviewers of VLDB 2022.
+Pandas APIs Translatability.xlsx - Microsoft confidential, shared with reviewers of CIDR 2023.
 
-K1.ipynb through K18.ipynb: License as defined by Kaggle for Kaggle notebooks.
+N1.ipynb through N10.ipynb: License as defined by Kaggle for Kaggle notebooks.
 
-Datasets used in K1.ipynb through K18.ipynb: License as defined by the source of these datasets (links to sources below).
+Datasets used in N1.ipynb through N10.ipynb: License as defined by the source of these datasets (links to sources below).
 - 400+ crypto currency pairs at 1-minute resolution | Kaggle : https://www.kaggle.com/datasets/tencars/392-crypto-currency-pairs-at-minute-resolution
 - eCommerce behavior data from multi category store | Kaggle: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 - NYC Parking Tickets | Kaggle: https://www.kaggle.com/datasets/new-york-city/nyc-parking-tickets
-- Stack Overflow Data | Kaggle: https://www.kaggle.com/datasets/stackoverflow/stackoverflow
 - Airline Delay and Cancellation Data, 2009 - 2018 | Kaggle: https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018
 - Sofia air quality dataset | Kaggle: https://www.kaggle.com/datasets/hmavrodiev/sofia-air-quality-dataset
-- Bitcoin tweets - 16M tweets | Kaggle: https://www.kaggle.com/datasets/alaix14/bitcoin-tweets-20160101-to-20190329

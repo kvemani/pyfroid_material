@@ -1,4 +1,4 @@
-The following is for the use of reviewers of VLDB 2023.
+The following is for the use of reviewers of CIDR 2023.
 ======================================================
 - Cross references to submission:
   Running example  -> adapted from K10.ipynb
